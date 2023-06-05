@@ -1,0 +1,100 @@
+[{
+    "id": "1001",
+    "name": "Marks: Full Creame Milk Powder",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Milk",
+    "variants": "Powder",
+    "quantity": 25,
+    "sizes": "1kg",
+    "price": 25.15,
+    "image": "https://i.ibb.co/YPc0DSL/image1.png",
+    "imageAlt": "Creamy full milk powder"
+  }, {
+    "id": "1002",
+    "name": "Mousum Bay Leaves",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Spice",
+    "variants": "Premium",
+    "quantity": 25,
+    "sizes": "200gm",
+    "price": 15.75,
+    "image": "https://i.ibb.co/8b9FRTB/image2.png",
+    "imageAlt": "Bay leaves to cook"
+  }, {
+    "id": "1003",
+    "name": "Onion: Original Onion",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Spice",
+    "variants": "Home",
+    "quantity": 25,
+    "sizes": "1kg",
+    "price": 10.25,
+    "image": "https://i.ibb.co/tZMpK7C/image3.png",
+    "imageAlt": "Homeland onion"
+  }, {
+    "id": "1004",
+    "name": "Rice: Rashid Basmati",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Grocery",
+    "variants": "Premium",
+    "quantity": 25,
+    "sizes": "15kg",
+    "price": 95.99,
+    "image": "https://i.ibb.co/rbjs2P5/image4.png",
+    "imageAlt": "Premium quality rice"
+  }, {
+    "id": "1005",
+    "name": "Gas: Omera LPG Refill",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Others",
+    "variants": "Smaller",
+    "quantity": 25,
+    "sizes": "12kg",
+    "price": 50.55,
+    "image": "https://i.ibb.co/W3kXh8r/image5.png",
+    "imageAlt": "LPG gas fro domestic use"
+  }, {
+    "id": "1006",
+    "name": "Chips: Bombay Sweets Mr. Twist",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Beverage",
+    "variants": "Salty",
+    "quantity": 25,
+    "sizes": "25gm",
+    "price": 10.25,
+    "image": "https://i.ibb.co/bP99qh7/image6.png",
+    "imageAlt": "Crispy chips"
+  }, {
+    "id": "1007",
+    "name": "Soap: Lifebuoy Soap Bar",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Cosmetics",
+    "variants": "Smaller",
+    "quantity": 25,
+    "sizes": "100gm",
+    "price": 10.55,
+    "image": "https://i.ibb.co/Stp0nyW/image7.png",
+    "imageAlt": "Beauty soap"
+  }, {
+    "id": "1008",
+    "name": "Chanachur: Ruchi BBQ Chanachur",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Beverage",
+    "variants": "BBQ",
+    "quantity": 25,
+    "sizes": "350gm",
+    "price": 12.25,
+    "image": "https://i.ibb.co/Kbs36bV/image8.png",
+    "imageAlt": "Tasty chanachur to eat"
+  }, {
+    "id": "1009",
+    "name": "Oil: Parachute Coconut Oil",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "categories": "Cosmetics",
+    "variants": "Mini Pack",
+    "quantity": 25,
+    "sizes": "200ml",
+    "price": 10.75,
+    "image": "https://i.ibb.co/YPTPY0q/image9.png",
+    "imageAlt": "Parachute keeps head cool"
+  }]
